@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Daniel Bennett
-description: Daniel is part of the Theorycraft ERC grant coordinated by Elisa Mekler. His research focuses on cognitive scientific approaches in HCI.
+title: Dan Bennett
+description: Dan is part of the Theorycraft ERC grant coordinated by Elisa Mekler. His research focuses on cognitive scientific approaches in HCI.
 img: assets/img/profile-photos/daniel.png
 group: Postdoc
 started: 2023-01-01
-name: Daniel Bennet
+name: Dan Bennett
 status: Current
 position: Postdoc
 email: daben@itu.dk
 themes: [CHI, phenomenology]
 ---
-References
+
+Publications
 ----------
 <div class="publications">
-  {% bibliography --query @*[author ~= bennett] %}
+  {% bibliography --query @*[author ~= Bennett] %}
 </div>
