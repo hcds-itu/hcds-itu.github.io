@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'uri', '0.13.0'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -8,7 +7,7 @@ group :jekyll_plugins do
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
-#    gem 'jekyll-github-metadata'
+    gem 'jekyll-github-metadata'
     gem 'jekyll-imagemagick'
     gem 'jekyll-jupyter-notebook'
     gem 'jekyll-link-attributes'
