@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'uri', '0.13.0'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -22,7 +23,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'mini_racer'
     gem 'unicode_utils'
-    gem 'uri', '0.13.0'
     gem 'webrick'
 end
 group :other_plugins do
